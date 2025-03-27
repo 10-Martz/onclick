@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914396480458",
+    "project_id": "onclick-69f84",
+    "storage_bucket": "onclick-69f84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914396480458:android:d8eed8f01a0fd4a7318533",
+        "android_client_info": {
+          "package_name": "com.tienda.onclickapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlVhphq4LxBOPVEhkikIsdhEZPA2gKD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
